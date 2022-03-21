@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.OOPS_ASSIGNMENT/1.OOPS_ASSIGNMENT.iml" filepath="$PROJECT_DIR$/1.OOPS_ASSIGNMENT/1.OOPS_ASSIGNMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Loops_Assignment/2.Loops_Assignment.iml" filepath="$PROJECT_DIR$/2.Loops_Assignment/2.Loops_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Array_And_Strings_Assignment/3.Array_And_Strings_Assignment.iml" filepath="$PROJECT_DIR$/3.Array_And_Strings_Assignment/3.Array_And_Strings_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Collections_Assignment/4.Collections_Assignment.iml" filepath="$PROJECT_DIR$/4.Collections_Assignment/4.Collections_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Exception_handling_Assignment/5.Exception_handling_Assignment.iml" filepath="$PROJECT_DIR$/5.Exception_handling_Assignment/5.Exception_handling_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.File_Handling_Assignment/6.File_Handling_Assignment.iml" filepath="$PROJECT_DIR$/6.File_Handling_Assignment/6.File_Handling_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.Main_Assignment/7.Main_Assignment.iml" filepath="$PROJECT_DIR$/7.Main_Assignment/7.Main_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HU_JAVA_TRACK.iml" filepath="$PROJECT_DIR$/.idea/HU_JAVA_TRACK.iml" />
+    </modules>
+  </component>
+</project>
